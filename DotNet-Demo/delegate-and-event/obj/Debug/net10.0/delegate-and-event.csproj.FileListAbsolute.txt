@@ -1,0 +1,15 @@
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/bin/Debug/net10.0/delegate-and-event
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/bin/Debug/net10.0/delegate-and-event.deps.json
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/bin/Debug/net10.0/delegate-and-event.runtimeconfig.json
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/bin/Debug/net10.0/delegate-and-event.dll
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/bin/Debug/net10.0/delegate-and-event.pdb
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.AssemblyInfoInputs.cache
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.AssemblyInfo.cs
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.csproj.CoreCompileInputs.cache
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.sourcelink.json
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.dll
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/refint/delegate-and-event.dll
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.pdb
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/delegate-and-event.genruntimeconfig.cache
+/workspaces/GenAI-Training-Lab/DotNet-Demo/delegate-and-event/obj/Debug/net10.0/ref/delegate-and-event.dll
